@@ -1,0 +1,26 @@
+# ================= Build =================
+MyWebApp/bin/
+MyWebApp/obj/
+publish/
+
+# ================= IDE / User =================
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+
+# ================= ASP.NET Core =================
+MyWebApp/appsettings.Development.json
+
+# ================= NuGet =================
+*.nupkg
+packages/
+.nuget/
+
+# ================= Logs =================
+*.log
+
+# ================= OS files =================
+.DS_Store
+Thumbs.db
